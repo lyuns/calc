@@ -16,3 +16,6 @@ console.log('linkData.insert(22222, 2):', linkData.toString())
 // 删除
 linkData.del(3)
 console.log('linkData.del(3):', linkData.toString())
+
+// 查找
+console.log('linkData.find(3):', linkData.find(3))
